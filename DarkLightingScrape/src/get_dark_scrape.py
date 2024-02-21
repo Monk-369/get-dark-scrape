@@ -47,3 +47,5 @@ def get_text_content(url, directory, desired_text):
 
             if found_desired_text:
                 f.write(text + "\n")
+
+# Comment
